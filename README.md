@@ -43,10 +43,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
 
 <img align="center" alt="Spring Boot" height="45" width="55"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-
----
-
-## Estatísticas GitHub
-
-![Kauany GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanypiloto22&show_icons=true&theme=tokyonight)
-
