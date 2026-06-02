@@ -44,6 +44,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
 <img align="left" alt="Spring Boot" width="30" style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 
+<br>
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaz1nzx/kaz1nzx/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaz1nzx/kaz1nzx/output/pacman-contribution-graph.svg">
